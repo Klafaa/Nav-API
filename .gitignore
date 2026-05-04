@@ -1,0 +1,27 @@
+# Bun / Node
+node_modules/
+*.log
+*.tsbuildinfo
+
+# Build output
+dist/
+.cache/
+
+# Local environment
+.env
+.env.*
+!.env.example
+
+# Database
+data/
+*.sqlite
+*.sqlite-journal
+*.db
+
+# OS
+.DS_Store
+.idea/
+.vscode/
+
+# Test snapshots / coverage
+coverage/
