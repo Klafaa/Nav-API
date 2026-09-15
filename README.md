@@ -1,4 +1,4 @@
-# NAV Online Számla 3.0 GraphQL Gateway
+# NAV Online Számla 3.1 GraphQL Gateway
 
 Type-safe gateway between your application and the Hungarian Tax Authority's
 **Online Számla 3.0** REST/XML API. The server speaks **GraphQL** to your
