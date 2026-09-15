@@ -10,7 +10,7 @@ Built with:
 
 | Layer    | Technology                                                              |
 | -------- | ----------------------------------------------------------------------- |
-| Runtime  | [Bun](https://bun.com) v1.3+                                            |
+| Runtime  | [Bun](https://bun.com) v1.4+                                            |
 | HTTP     | [Elysia](https://elysiajs.com)                                          |
 | GraphQL  | [Pothos](https://pothos-graphql.dev) + [GraphQL Yoga](https://the-guild.dev/graphql/yoga-server) |
 | ORM      | [Drizzle](https://orm.drizzle.team) + Bun SQLite                        |
